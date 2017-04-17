@@ -1,0 +1,7 @@
+c:\users\1172759\documents\visual studio 2015\Projects\OEE DASHBOARD\OEE DASHBOARD\bin\OEE DASHBOARD.dll.config
+c:\users\1172759\documents\visual studio 2015\Projects\OEE DASHBOARD\OEE DASHBOARD\bin\OEE DASHBOARD.dll
+c:\users\1172759\documents\visual studio 2015\Projects\OEE DASHBOARD\OEE DASHBOARD\bin\OEE DASHBOARD.pdb
+c:\users\1172759\documents\visual studio 2015\Projects\OEE DASHBOARD\OEE DASHBOARD\obj\Debug\OEE DASHBOARD.dll
+c:\users\1172759\documents\visual studio 2015\Projects\OEE DASHBOARD\OEE DASHBOARD\obj\Debug\OEE DASHBOARD.pdb
+C:\Users\1172759\Documents\Visual Studio 2015\Projects\OEE DASHBOARD\OEE DASHBOARD\bin\MySql.Data.dll
+C:\Users\1172759\Documents\Visual Studio 2015\Projects\OEE DASHBOARD\OEE DASHBOARD\obj\Debug\OEE DASHBOARD.csprojResolveAssemblyReference.cache

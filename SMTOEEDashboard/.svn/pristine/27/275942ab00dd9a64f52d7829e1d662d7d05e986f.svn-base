@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+  <appSettings>
+    <add key="URL" value="http://huardcjemsdw01/CAMX/CAMXCS3.html"/>
+    <add key="DestPATH" value="D:\abc\OEEData.txt"/>
+    <add key="JSPATH" value="C:\Users\ShenS61\Desktop\GetOEEData.js"/>
+    <add key="EQUIPMENTIDS" value="6788,8481, 7058,7059, 6876,11306, 7060, 7061, 7063, 7064, 7065, 7848"/>
+  </appSettings>
+</configuration>

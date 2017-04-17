@@ -1,0 +1,8 @@
+c:\users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\bin\Debug\OEE_Action.exe
+c:\users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\bin\Debug\OEE_Action.pdb
+c:\users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\obj\Debug\OEE_Action.exe
+c:\users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\obj\Debug\OEE_Action.pdb
+c:\users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\bin\Debug\OEE_Action.exe.config
+c:\users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\bin\Debug\MySql.Data.dll
+C:\Users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1172759\documents\visual studio 2015\Projects\OEE_Action\OEE_Action\bin\Debug\Newtonsoft.Json.xml

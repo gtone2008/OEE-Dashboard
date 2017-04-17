@@ -1,0 +1,9 @@
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\bin\Debug\OEEDataReceiver.exe.config
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\bin\Debug\OEEDataReceiver.exe
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\bin\Debug\OEEDataReceiver.pdb
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\obj\Debug\OEEDataReceiver.csprojResolveAssemblyReference.cache
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\obj\Debug\OEEDataReceiver.Form1.resources
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\obj\Debug\OEEDataReceiver.Properties.Resources.resources
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\obj\Debug\OEEDataReceiver.csproj.GenerateResource.Cache
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\obj\Debug\OEEDataReceiver.exe
+C:\Users\1172759\Desktop\SMTOEEDashboard\SourceCode\OEEDataReceiver\OEEDataReceiver\obj\Debug\OEEDataReceiver.pdb
